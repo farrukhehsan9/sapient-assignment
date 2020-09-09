@@ -8,6 +8,6 @@
 
 ### Deployed link 
 
-https://spacexlaunchprograms.herokuapp.com/
+https://space-x-launch-programs-app.herokuapp.com/
 
 ### Enjoy!
